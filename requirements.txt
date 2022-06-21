@@ -1,2 +1,4 @@
+soundfile
 librosa
+librosa.display
 youtube-search-python
